@@ -2,7 +2,7 @@
 
 A machine learning project demonstrating **Decision Tree classification** using Scikit-learn's **Wine dataset**.
 
-This project modifies Example 3.11, which originally performs Decision Tree classification on the Iris dataset, and adapts the program to use Scikit-learn's Wine dataset.
+This project performs Decision Tree classification on the Iris dataset, and adapts the program to use Scikit-learn's Wine dataset.
 
 The implementation includes:
 
